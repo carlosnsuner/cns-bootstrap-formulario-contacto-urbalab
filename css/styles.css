@@ -1,0 +1,37 @@
+
+body{
+    background-color: white;
+}
+
+.container-fluid{
+
+    width: 125vh;
+    height: 50vw;
+    background-color: rgb(230, 224, 224);
+    margin-top: 40px;
+    block-size: auto;
+    
+}
+
+/* posición y color del título */
+.title{
+    color: rgb(34, 170, 194);
+    height: 7vw;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+/* Colcocar imagenes al centro de col-2 */
+.img{
+    text-align: right;
+}
+/* Color texto de los box" */
+.first-name{
+    color: rgb(161, 159, 159);
+}
+/* clase para el boton enviar */
+.button-center{
+    text-align: center;
+    margin-bottom: 20px;
+}
