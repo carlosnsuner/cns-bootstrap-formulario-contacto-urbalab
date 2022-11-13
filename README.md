@@ -5,7 +5,7 @@
 
 ### Semana 02 - (Retos Bootstrap) - Crea la siguiente plantilla de Formulario con Bootstrap.
 
-![Ejercicio](https://github.com/carlosnsuner/cns-bootstrap-formulario-urbalab/raw/master/img/captura.PNG)
+![Ejercicio](https://github.com/carlosnsuner/cns-bootstrap-formulario-contacto-urbalab/raw/master/img/Captura.PNG)
 
 
 ***
